@@ -1,105 +1,154 @@
- # Hello there! 👋
- <p align="left">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+
-  Code&weight=600&size=24&duration=4000&pause=1000&color=2F80ED&vCenter=true&width=600&lines=Full-Stack+Engineer;AI+
-  Automation+Specialist;Open+Source+Contributor" alt="Typing SVG" />
-    </p>
+👋 Hey, I'm Kingsley Chinonso
 
-   ## 🧑‍💻 About Me:
- * 🔭 **I’m currently working on:** Scalable full-stack web applications and AI-driven automation workflows.
-    * 👯 **I’m looking to collaborate on:** Open-source AI tools, full-stack web products, and impactful tech
-  initiatives.
-    * 🤝 **I’m looking for help with:** Advanced machine learning model optimization and agentic AI architectures.
-    * 🌱 **I’m currently learning:** Edge AI deployment, LLM fine-tuning, and cloud-native microservices.
-    * 💬 **Ask me about:** JavaScript/TypeScript, Python, full-stack frameworks, workflow automation, and integrating
-  AI into production apps.
-    * ⚡ **Fun fact:** When I'm not writing code or building automations, I'm exploring new tech stacks and analyzing
-  complex problem-solving patterns!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI+%26+Automation+Specialist;Backend+%26+API+Developer;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
+</p><p align="center">
+  <a href="https://github.com/kchinonso">
+    <img src="https://img.shields.io/github/followers/kchinonso?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/kchinonso?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-2F80ED?style=for-the-badge&logo=github" alt="Projects"/>
+  </a>
+  <a href="mailto:kchinonso162@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>---
 
-    ---
+🧑‍💻 About Me
 
-    ## 🌐 Socials:
-    <p align="left">
-      <a href="mailto:kchinonso162@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"/>
-      </a>
-    </p>
+I'm a Full-Stack Engineer focused on building scalable web applications, backend systems, APIs, automation workflows, and AI-powered products.
 
- ---
+I enjoy taking an idea from concept → architecture → development → deployment → production.
 
-## 🛠️ Tech Stack:
+- 🔭 Currently building full-stack applications and AI-driven automation systems
+- 🤖 Exploring AI agents, LLM applications, and intelligent automation
+- ⚙️ Experienced with REST APIs, backend architecture, databases, and cloud deployment
+- 🌱 Currently learning LLM fine-tuning, Edge AI, and cloud-native architecture
+- 🤝 Open to collaborating on open-source projects and impactful technology
+- 💬 Ask me about JavaScript, TypeScript, Python, React, Node.js, APIs, and automation
+- ⚡ I enjoy turning complex problems into simple, practical systems
 
- ### Languages
+---
+
+🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">🌐 Full-Stack Applications
+
+Modern web applications with scalable frontend and backend architectures.
+
+</td>
+<td width="50%">🤖 AI & Automation
+
+AI-powered tools, intelligent workflows, bots, and business automation.
+
+</td>
+</tr><tr>
+<td width="50%">⚙️ Backend Systems
+
+REST APIs, authentication, databases, integrations, and production services.
+
+</td>
+<td width="50%">🔗 Blockchain & Web3
+
+Smart contracts, automation, and blockchain-based applications.
+
+</td>
+</tr>
+</table>---
+
+🛠️ Tech Stack
+
+💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,solidity" alt="Languages"/>
+</p>🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend"/>
+</p>⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" alt="Backend and Databases"/>
+</p>☁️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel" alt="DevOps and Tools"/>
+</p>🤖 AI
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/AI%20Automation-2F80ED?style=for-the-badge&logo=robot&logoColor=white" alt="AI Automation"/>
+  <img src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge&logo=probot&logoColor=white" alt="LLM Applications"/>
+</p>---
+
+📌 Featured Projects
+
+🤖 AutoMATE Solutions
+
+AI-powered automation and digital transformation solutions designed to help businesses streamline operations and make better use of technology.
+
+Focus: AI • Automation • Business Solutions • Web Applications
+
+---
+
+🥑 SoftBite
+
+An AI-powered food recognition and nutrition platform designed around intelligent food analysis and personalized insights.
+
+Focus: AI • Computer Vision • Nutrition • Mobile/Web
+
+---
+
+📱 WhatsApp VTU Automation
+
+A WhatsApp-first VTU platform designed to automate airtime and data purchases through conversational interactions.
+
+Focus: Node.js • WhatsApp Automation • APIs • Payments • VTU
+
+---
+
+🎓 Course Material Bot
+
+A WhatsApp-based educational assistant that helps students find and receive course materials directly through WhatsApp.
+
+Focus: WhatsApp Automation • Node.js • Google Drive API • Education
+
+---
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kchinonso&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kchinonso&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchinonso&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+</p>---
+
+🏆 Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kchinonso&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/>
+</p>---
+
+🌐 Connect With Me
+
 <p align="left">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  alt="Python"/>
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-  alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-  alt="TypeScript"/>
-    </p>
+  <a href="https://github.com/kchinonso">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://kingsleychinonso.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:kchinonso162@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>---
 
- ### Frontend & Backend
-<p align="left">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-  alt="React"/>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-  alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"
-  alt="Express.js"/>
-    </p>
-
- ### Cloud, AI & Tools
- <p align="left">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-  alt="Docker"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"
-  alt="OpenAI"/>
-    </p>
-
-    ---
-
- ## 📈 GitHub Highlights & Fun:
-  *(Note: If you decided you don't want the stats cards showing, just delete the two `<img ... shion.dev... />` and
-  the `demolab.com` lines below!)*
-
- <p align="center">
-      <img src="https://github-readme-stats.shion.
-  dev/api?username=kchinonso&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub
-  Stats" />
-      <img src="https://streak-stats.demolab.com/?user=kchinonso&theme=dark&hide_border=false" alt="GitHub Streak" />
-    </p>
-    <p align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-
-  langs/?username=kchinonso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-  alt="Top Languages" />
-    </p>
-
- ### 🏆 Top Contributed Repo
- <p align="left">
-      <img src="https://github-contributor-stats.vercel.
-  app/api?username=kchinonso&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-    </p>
-    ### 💬 Random Dev Quote
-    <p align="left">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-    </p>
-
-    ---
-
-  ## ☕ Support My Work
-
-**You can help me by donating:**
-    <p align="left">
-      <a href="https://paypal.me/kchinonso162">
-        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
-  alt="PayPal" />
-      </a>
-    </p>
-
-  <!-- Profile Views Counter -->
- <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=kchinonso&icon=0&color=0" alt="Profile Views" />
-    </p>
+<p align="center">
+  <i>Building useful technology, one system at a time. 🚀</i>
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kchinonso&label=Profile%20Views&color=2F80ED&style=flat" alt="Profile Views"/>
+</p>
