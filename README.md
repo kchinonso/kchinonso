@@ -1,7 +1,7 @@
 👋 Hey, I'm Kingsley Chinonso
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI+%26+Automation+Specialist;Backend+%26+API+Developer;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;AI+%26+Automation+Specialist;Backend+%26+API+Developer;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
 </p><p align="center">
   <a href="https://github.com/kchinonso">
     <img src="https://img.shields.io/github/followers/kchinonso?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
@@ -76,7 +76,7 @@ Smart contracts, automation, and blockchain-based applications.
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel" alt="DevOps and Tools"/>
-</p>🤖 AI
+</p>🤖 AI & Automation
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
@@ -121,16 +121,34 @@ Focus: WhatsApp Automation • Node.js • Google Drive API • Education
 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kchinonso&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kchinonso&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchinonso&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kchinonso&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Kingsley's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchinonso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    height="180"
+  />
 </p>---
 
-🏆 Contributions
+🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kchinonso&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/>
+  <img
+    src="https://streak-stats.demolab.com?user=kchinonso&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>---
+
+🏆 Top Contributed Repositories
+
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=kchinonso&limit=5&theme=dark&combine_all_yearly_contributions=true"
+    alt="Top Contributed Repositories"
+  />
 </p>---
 
 🌐 Connect With Me
@@ -138,11 +156,9 @@ Focus: WhatsApp Automation • Node.js • Google Drive API • Education
 <p align="left">
   <a href="https://github.com/kchinonso">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://kingsleychinonso.vercel.app/">
+  </a>  <a href="https://kingsleychinonso.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:kchinonso162@gmail.com">
+  </a>  <a href="mailto:kchinonso162@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>---
@@ -150,5 +166,8 @@ Focus: WhatsApp Automation • Node.js • Google Drive API • Education
 <p align="center">
   <i>Building useful technology, one system at a time. 🚀</i>
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kchinonso&label=Profile%20Views&color=2F80ED&style=flat" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=kchinonso&label=Profile%20Views&color=2F80ED&style=flat"
+    alt="Profile Views"
+  />
 </p>
