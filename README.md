@@ -5,7 +5,7 @@
   Automation+Specialist;Open+Source+Contributor" alt="Typing SVG" />
     </p>
 
-    ## 🧑‍💻 About Me:
+   ## 🧑‍💻 About Me:
  * 🔭 **I’m currently working on:** Scalable full-stack web applications and AI-driven automation workflows.
     * 👯 **I’m looking to collaborate on:** Open-source AI tools, full-stack web products, and impactful tech
   initiatives.
